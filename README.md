@@ -1,9 +1,8 @@
-# PhoneGap Build Starter Application with Pushwoosh
+# This repo has been moved to:
+https://github.com/Pushwoosh/pushwoosh-phonegap-cordova-sample/
 
-The app is ready to be uploaded to Phonegap Build. Just make sure you change Pushwoosh App ID in the javascript files after you fork this repo.
-
-####Pushwoosh Cordova/Phonegap Push Notifications Plugin:
-https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin
+# If you are using Phonegap Build check out this sample app with Pushwoosh Phonegap Build plugin integrated:
+https://github.com/Pushwoosh/pushwoosh-phonegap-cordova-sample/tree/master/Phonegap%20Build
 
 ####Android Guide:
 http://www.pushwoosh.com/programming-push-notification/android/android-additional-platforms/phonegapcordova-sdk-integration/
